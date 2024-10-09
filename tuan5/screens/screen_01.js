@@ -10,7 +10,7 @@ export default function app({navigation}){
             justifyContent:"center",
             alignItems: "center",
           }}>
-            <Image source={require("../assets/DATA/Image 18.png")} 
+            <Image source={require("../assets/DATA/Image18.png")} 
             style={{
                 width:"90%",
                 backgroundColor:"pink",
